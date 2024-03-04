@@ -1,2 +1,5 @@
-sf\rf\RunCucumberTest.class
-sf\rf\StepDefinitions.class
+ru\sf\RunCucumberTest.class
+ru\sf\SFReferralProgramPage.class
+ru\sf\SFCoursesPage.class
+ru\sf\SFRazrabotkaPrilozheniyPage.class
+ru\sf\SFMainPage.class
